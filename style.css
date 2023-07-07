@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(83,231,83);
+    margin: 50px;
+    padding: 5px;
+    padding-left: 490px;
+}
+.rf{
+    border: 1px solid lightseagreen;
+    background-color: lightseagreen;
+    width: 200px;
+    padding: 50px;
+    padding-left: 50px; 
+    padding-bottom: 30px;  
+}
+input[type="button"]{
+    background-color: green;
+    width: 175px;
+}
+input[type="text"]{
+    width: 175px;
+}
+input[type="number"]{
+   width: 175px;
+}
+input[type="button"]{
+    background-color: green;
+    width: 175px;
+}
